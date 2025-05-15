@@ -126,3 +126,4 @@
 2025-02-18 09:31:00 | INFO | repo=pgvector | action=commit
 2025-12-13 08:58:00 | INFO | repo=pgvector | action=commit
 2025-12-15 18:39:00 | INFO | repo=pgvector | action=commit
+2025-05-15 15:39:00 | WARN | repo=pgvector | action=commit
