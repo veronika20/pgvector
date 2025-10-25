@@ -167,3 +167,5 @@
 2025-12-15 09:42:00 | DEBUG | repo=pgvector | action=commit
 2025-01-04 14:12:00 | INFO | repo=pgvector | action=commit
 2025-10-22 08:49:00 | DEBUG | repo=pgvector | action=commit
+2025-01-27 16:27:00 | INFO | repo=pgvector | action=edit | files=5
+2025-10-25 07:05:00 | WARN | repo=pgvector | action=commit
